@@ -1,6 +1,7 @@
 .Container {
   width: 500px;
   border: solid 1px black;
+  margin-bottom: 50px;
 }
 
 .form {
