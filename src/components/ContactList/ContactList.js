@@ -67,3 +67,5 @@ class Input extends Component {
 Input.propTypes = {
   onFormSubmit: PropTypes.func.isRequired,
 };
+
+export default Input;
