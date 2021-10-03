@@ -5,7 +5,7 @@
 
 .form {
   display: flex;
-  flex-direction: column;
+
   width: 300px;
   padding-left: 20px;
   padding-bottom: 20px;
@@ -13,7 +13,9 @@
 
 .formItem {
   display: flex;
+
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .button {
